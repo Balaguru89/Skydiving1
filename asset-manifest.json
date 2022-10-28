@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Skydiving1/static/css/main.cd7ede58.css",
+    "main.js": "/Skydiving1/static/js/main.bca3a85e.js",
+    "static/js/787.aba23c5b.chunk.js": "/Skydiving1/static/js/787.aba23c5b.chunk.js",
+    "index.html": "/Skydiving1/index.html",
+    "main.cd7ede58.css.map": "/Skydiving1/static/css/main.cd7ede58.css.map",
+    "main.bca3a85e.js.map": "/Skydiving1/static/js/main.bca3a85e.js.map",
+    "787.aba23c5b.chunk.js.map": "/Skydiving1/static/js/787.aba23c5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7ede58.css",
+    "static/js/main.bca3a85e.js"
+  ]
+}
