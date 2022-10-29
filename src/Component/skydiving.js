@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 //import { Button, Form, Col, Row, FormControl } from "react-bootstrap";
+
 import "./style.css";
 
 function Skydiving() {
+
   const [data, setData] = useState({ Name: "", price: "", date: "", time: "" });
   const [date, setDate] = useState();
   const [allData, setAllData] = useState([]);
@@ -18,6 +20,7 @@ function Skydiving() {
   let { Name, price, time } = data;
 
   function showCharge(e) {
+
     setData({ ...data, [e.target.name]: e.target.value });
     setDate(e.target.value);
     setTotalcharge(price);
